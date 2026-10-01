@@ -1,4 +1,4 @@
-package dto;
+package ma.local.demo1.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;

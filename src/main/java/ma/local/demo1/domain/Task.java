@@ -1,4 +1,4 @@
-package domain;
+package ma.local.demo1.domain;
 
 import jakarta.persistence.*;
 
